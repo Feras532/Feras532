@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Feras Alsinan</h1>
 <h3 align="center">Junior Software Engineer</h3>
-
+ 
+- ✨ I’m interested in **Frontend Development**
+  
 - 🌱 I’m currently learning **Android, Flutter**
 
 - 📫 How to reach me **Feras.S.Alsinan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/feras alsinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feras alsinan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
