@@ -3,7 +3,7 @@
  
 - ✨ I’m interested in **Frontend Development**
   
-- 🌱 I’m currently learning **Android, Flutter**
+- 🌱 I’m currently learning (Mobile Dev): **Android, Flutter**
 
 - 📫 How to reach me **Feras.S.Alsinan@gmail.com**
 
