@@ -2,7 +2,8 @@
 <h3 align="center">Junior Software Engineer</h3>
  
 - ✨ I’m interested in **Frontend Development**
-  
+
+- 🌱 I’m currently learning: **Next js**
 - 🌱 I’m currently learning (Mobile Dev): **Android, Flutter**
 
 - 📫 How to reach me **Feras.S.Alsinan@gmail.com**
