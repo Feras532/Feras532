@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning: **Next js**
 - 🌱 I’m currently learning (Mobile Dev): **Android, Flutter**
 
-- 📫 How to reach me **Feras.S.Alsinan@gmail.com**
+- 📫 How to reach me:
+**Feras.S.Alsinan@gmail.com**
+**+966541440988**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
