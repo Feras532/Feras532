@@ -1,7 +1,7 @@
 # 💫About Me :
-✨ I’m interested in Frontend Development
+✨ Full-stack Developer
 
-🌱 I’m currently learning (Mobile Dev)
+🌱 I’m currently working at LazyWait
 
 📫 How to reach me: Feras.S.Alsinan@gmail.com +966541440988
 
