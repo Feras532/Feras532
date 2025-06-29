@@ -1,6 +1,8 @@
 # 💫About Me :
 ✨ Full-stack Developer
 
+🎓 Graduated from KFUPM B.S in Software Engineering
+
 🌱 I’m currently working at LazyWait
 
 📫 How to reach me: Feras.S.Alsinan@gmail.com +966541440988
